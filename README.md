@@ -1,4 +1,4 @@
-### Hola, soy Belén Limachi 👋
+### Hola, soy Belén, estudiante de Ingenieria en Sistemas y Tecnicatura en Programación 👋
 
 <!--
 **Belen74/belen74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
